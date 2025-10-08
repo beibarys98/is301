@@ -1,0 +1,8 @@
+# Begin8: Даны два числа a и b. Найти их среднее арифметическое: (a + b) / 2.
+
+a = float(input("Введите первое число a: "))
+b = float(input("Введите второе число b: "))
+
+average_arithmetic = (a + b) / 2
+
+print(f"Среднее арифметическое: {average_arithmetic}")
